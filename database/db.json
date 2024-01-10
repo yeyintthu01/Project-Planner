@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": "1",
-      "title": "project title 1",
-      "detail": "project detail 1",
+      "title": "project title update",
+      "detail": "project detail update",
       "complete": true
     },
     {
